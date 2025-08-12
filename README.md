@@ -8,3 +8,4 @@ Linked List questions asked in interviews.
 5. Get Nth from the end in a single link list. [Link](https://github.com/InterviewCodingUSA/LinkedList/tree/main/GetNthFromEnd/GetNthFromEnd/src)
 6. Is cyclic as well as finding start of a cycle. [Link](https://github.com/InterviewCodingUSA/LinkedList/tree/main/LinkListCyclic/LinkListCyclic/src)
 7. Is link list a palindrome. [Link](https://github.com/InterviewCodingUSA/LinkedList/tree/main/IsPalindrome/IsPalindrome/src) 
+8. Zip Merge. [Link](https://github.com/InterviewCodingUSA/LinkedList/tree/main/ZipMerge/ZipMerge/src)
