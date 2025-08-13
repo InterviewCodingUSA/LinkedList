@@ -9,3 +9,4 @@ Linked List questions asked in interviews.
 6. Is cyclic as well as finding start of a cycle. [Link](https://github.com/InterviewCodingUSA/LinkedList/tree/main/LinkListCyclic/LinkListCyclic/src)
 7. Is link list a palindrome. [Link](https://github.com/InterviewCodingUSA/LinkedList/tree/main/IsPalindrome/IsPalindrome/src) 
 8. Zip Merge. [Link](https://github.com/InterviewCodingUSA/LinkedList/tree/main/ZipMerge/ZipMerge/src)
+9. Sorted Insert as well as remove duplicates from Sorted list. [Link](https://github.com/InterviewCodingUSA/LinkedList/tree/main/RemoveDuplicatesFromSortedList/RemoveDuplicatesFromSortedList/src)
