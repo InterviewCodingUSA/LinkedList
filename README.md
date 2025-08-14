@@ -14,3 +14,4 @@ Linked List questions asked in interviews.
 11. Delete Nth from end. [Link](https://github.com/InterviewCodingUSA/LinkedList/tree/main/RemoveNthFromEnd/RemovrNthFromEnd/src)
 12. Swap Nth from end with Nth from start. [Link](https://github.com/InterviewCodingUSA/LinkedList/tree/main/SwapNthDeomEndWithNthFromStart/SwapNthFromEndWithNthFromStart/src)
 13. Max Twin Value in an even list. [Link](https://github.com/InterviewCodingUSA/LinkedList/tree/main/MaxTwinSum/MaxTwinSum/src)
+14. Binary to Integer value. [Link](https://github.com/InterviewCodingUSA/LinkedList/tree/main/BinaryToIntegerValue/BinaryToIntegerValue/src) 
