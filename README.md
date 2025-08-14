@@ -12,4 +12,5 @@ Linked List questions asked in interviews.
 9. Sorted Insert as well as remove duplicates from Sorted list. [Link](https://github.com/InterviewCodingUSA/LinkedList/tree/main/RemoveDuplicatesFromSortedList/RemoveDuplicatesFromSortedList/src)
 10. Delete middle of a list. [Link](https://github.com/InterviewCodingUSA/LinkedList/tree/main/DeleteMiddleOfList/DeleteMiddleOfList/src)
 11. Delete Nth from end. [Link](https://github.com/InterviewCodingUSA/LinkedList/tree/main/RemoveNthFromEnd/RemovrNthFromEnd/src)
-12. Swap Nth from end with Nth from start. [Link](https://github.com/InterviewCodingUSA/LinkedList/tree/main/SwapNthDeomEndWithNthFromStart/SwapNthFromEndWithNthFromStart/src) 
+12. Swap Nth from end with Nth from start. [Link](https://github.com/InterviewCodingUSA/LinkedList/tree/main/SwapNthDeomEndWithNthFromStart/SwapNthFromEndWithNthFromStart/src)
+13. Max Twin Value in an even list. [Link](https://github.com/InterviewCodingUSA/LinkedList/tree/main/MaxTwinSum/MaxTwinSum/src)
